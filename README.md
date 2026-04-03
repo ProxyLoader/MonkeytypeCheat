@@ -1,6 +1,6 @@
 # MonkeytypeCheat
 A tampermonkey user-script, that will type for you with custom delay, you can set within the script
-![TamperMonkey]https://www.tampermonkey.net/
+![TamperMonkey](https://www.tampermonkey.net/)
 
 
 ## How to change delay
