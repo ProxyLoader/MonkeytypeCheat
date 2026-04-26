@@ -7,7 +7,6 @@
 
 (function() {
     'use strict';
-
     console.log("Hit => Arrow Right key to enable/disable cheat.");
 
     const DELAY_MS = 20;
